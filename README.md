@@ -13,3 +13,5 @@ serve -s build
 #Instalar ngrok
 #Requisitos trabajar con https
 #en windows ejecutar ngrok.exe http 5000
+#Elementos de tracking
+npm add react-ga
